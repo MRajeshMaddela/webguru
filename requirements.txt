@@ -82,7 +82,7 @@ Pygments==2.19.1
 pymongo==4.10.1
 pyparsing==3.2.0
 python-dateutil==2.9.0.post0
-pywin32==310
+python-dotenv==1.0.1
 PyYAML==6.0.2
 pyzmq==26.3.0
 regex==2024.11.6
